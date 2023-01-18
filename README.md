@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Feliciano Brancarto 👋
 
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
+- 🌱 Formado em Análise e Desenvolvimento de Sistemas
 - 👯 Participando de um Projeto voluntário chamado Vem para TI
 - 🤔 Fazendo um curso de Web Moderno na Udemy
 - 🔭 Aprendendo Python
