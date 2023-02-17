@@ -17,6 +17,17 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Kleber-React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">  
 
+     <br>
+  
+  ### Ferramentas 
+  
+  <div style="display: inline_block">
+   <img align="center" alt="ed-vsCode" height="38" width="38"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+   <img align="center" alt="ed-Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
+   <img align="center" alt="ed-trello" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">    
+   <img align="center" alt="ed-trello" height="30" width="80" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVotLFx-mnmULKiHC8VbYwjIHAs8MnKSvrOw&usqp=CAU">
+   <img align="center" alt="ed-trello" height="40" width="80" src="http://kanbanmps.com/beta/wp-content/uploads/2017/10/Kanban-Logo.png">    
+  </div>
   
 </div>
   
