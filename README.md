@@ -1,9 +1,9 @@
 ### Olá, Eu sou o Feliciano Brancarto 👋
 
-- 🌱 Formado em Análise e Desenvolvimento de Sistemas
-- :computer: Participando de um Projeto voluntário chamado Vem para TI
+- :books: Análise e Desenvolvimento de Sistemas
+- :computer: Participando do Projeto voluntário chamado Vem para TI 2023
 - 🤔 Fazendo um curso de Web Moderno na Udemy
-- 🔭 Frameworks: React, Angular, VueJS.
+- :mag: Frameworks: React, Angular, VueJS.
 
 <div align="center">
   <a href="https://github.com/felicianobrancarto">
